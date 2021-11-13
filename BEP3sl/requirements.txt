@@ -1,0 +1,11 @@
+imutils==0.5.3
+joblib==1.1.0
+matplotlib==3.4.3
+mediapipe==0.8.8
+numpy==1.19.5
+opencv-python==3.4.2.17
+pandas==0.25.3
+Pillow==8.4.0
+scikit_learn==1.0.1
+streamlit==1.1.0
+tensorflow==2.6.0
